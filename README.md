@@ -1,4 +1,4 @@
-# 🧐 Agentic RAG with Reasoning
+# Agentic RAG with Reasoning
 A sophisticated RAG system that demonstrates an AI agent's step-by-step reasoning process using Agno, Claude and OpenAI. This implementation allows users to upload documents, add web sources, ask questions, and observe the agent's thought process in real-time.
 
 
@@ -48,8 +48,8 @@ You'll need the following API keys:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-    cd rag_tutorials/agentic_rag_with_reasoning
+    git clone https://github.com/Roshini1507/Agentic-RAG-with-Reasoning.git
+    cd Agentic-RAG-with-Reasoning
     ```
 
 2. **Install the dependencies**:
